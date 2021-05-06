@@ -127,7 +127,7 @@ Once again, after trying different commands I was finally able to access the aut
 10.10.36.250:6379> type authlist
 list
 10.10.36.250:6379> lrange authlist 1 100
-1) "QXV0aG9yaXphdGlvbiBmb3IgcnN5bmM6Ly9yc3luYy1jb25uZWN0QDEyNy4wLjAuMSB3aXRoIHBhc3N3b3JkIEhjZzNIUDY3QFRXQEJjNzJ2Cg=="
+1) "QXV0aG*****************************************************************************************************2Cg==="
 ```
 
 ## Decoding the cypher
